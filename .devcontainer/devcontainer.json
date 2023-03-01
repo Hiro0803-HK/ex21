@@ -2,6 +2,7 @@
     "name": "Python Basic Project",
     "dockerComposeFile": "compose.yml",
     "service": "python",
+    "remoteUser": "VSCODE",
     "workspaceFolder": "/tmp/work",
     
     "customizations": {       
